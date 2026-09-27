@@ -9,8 +9,53 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/39d353/saif-ur-rehmaan" alt="Saif ur Rehman's GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=saif-ur-rehmaan&custom_title=Total+Contributions&hide=stars,commits,prs,issues&hide_rank=true&hide_title=false&show_icons=true&count_private=true&card_width=280&hide_border=true&border_radius=12&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=E8E6E3" />
+  <img src="https://github-readme-stats.shion.dev/api?username=saif-ur-rehmaan&custom_title=Total+Commits+(All-Time)&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&card_width=280&hide_border=true&border_radius=12&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=E8E6E3" />
+  <img src="https://github-readme-stats.shion.dev/api?username=saif-ur-rehmaan&custom_title=Commits+This+Year&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&card_width=280&hide_border=true&border_radius=12&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=E8E6E3" />
+</p>
+
+### 📌 Pinned Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/saif-ur-rehmaan/Project_THE-SCHOLAR">
+        <img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=saif-ur-rehmaan&repo=Project_THE-SCHOLAR&hide_border=true&border_radius=12&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8E6E3" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/saif-ur-rehmaan/Project_StarOrganic">
+        <img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=saif-ur-rehmaan&repo=Project_StarOrganic&hide_border=true&border_radius=12&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8E6E3" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/saif-ur-rehmaan/Project_JobEntry_Laravel">
+        <img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=saif-ur-rehmaan&repo=Project_JobEntry_Laravel&hide_border=true&border_radius=12&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8E6E3" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/saif-ur-rehmaan/Project_FreshMart_PHP">
+        <img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=saif-ur-rehmaan&repo=Project_FreshMart_PHP&hide_border=true&border_radius=12&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8E6E3" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/saif-ur-rehmaan/Project-KarnelTravelAgency-ASP_.Net_8_MVC">
+        <img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=saif-ur-rehmaan&repo=Project-KarnelTravelAgency-ASP_.Net_8_MVC&hide_border=true&border_radius=12&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8E6E3" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 💫 About Me
 
